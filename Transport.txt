@@ -1,0 +1,4 @@
+train,shatabadi,250,200,250
+train,shatabadi,750,5000,3000
+train,CE,2500,5000,2456
+bus,volvo,500,180,70
